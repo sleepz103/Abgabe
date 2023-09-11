@@ -5,12 +5,12 @@ Szymon Rybicki
 12/09/2023 , 7:30 bis 11:45 (4 stunden 15 Minuten mit Pause)
 
 ## Leit-Satz
-Nächstes mal möchte ich kurz 431 nachholen. Ich habe dieses Modul nachgeholt so viel wie möglich, doch bei paar Aufgaben habe ich fragen und möchte sie klären. 
+Nächstes mal möchte ich kurz 431 nachholen. Ich habe dieses Modul nachgeholt so viel wie möglich, doch bei paar Aufgaben habe ich Fragen und möchte sie klären. 
 Und wenn alles klar wird, kann ich die Aufgabe vollständigen und abgeben.
 
-Zudem möchte ich auch zwei optionale übungen zur Switchcases lösen. Am anfang fand ich Switchcases schwierig, doch als ich mit den Aufgabe fertig war, hat das mir interessiert und möchte es mehr im Griff zu haben. Optionale Aufgaben finde ich als guter Weg, etwas zu vertiefern da ich das Erlernte später mit Lösung überprüfen kann.
+Zudem möchte ich auch zwei optionale Übungen zur Switchcases lösen. Am Anfang fand ich Switchcases schwierig, doch als ich mit eine Aufgabe fertig war, hat das mir interessiert und möchte es mehr im Griff zu haben. Optionale Aufgaben finde ich als guter Weg, etwas zu vertiefern da ich das Erlernte später mit Lösung vergleichen kann.
 
-Am Ende möchte ich noch eine Vorlage für Dokumentation erstellen. Somit kann ich vorbereiten, da ich nicht viele Einträge gemacht habe. Dabei übe ich, was alles in Dokumentation drin sein muss sowie wie es aussen muss. Eine Vorlage zu erstellen wird mir später sehr helfen.
+Am Ende möchte ich noch eine Vorlage für Dokumentation erstellen. Somit kann ich vorbereiten, da ich nicht viele Einträge gemacht habe. Dabei übe ich, was alles in Dokumentation drin sein muss sowie wie es aussehen muss. Eine Vorlage zu erstellen wird mir später sehr helfen.
 
 ## Arbeitspakete für 12/09/2023
 
