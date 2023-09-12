@@ -15,8 +15,8 @@ Am Ende möchte ich noch eine Vorlage für Dokumentation erstellen. Somit kann i
 ## Arbeitspakete für 12/09/2023
 
 - [ ] Module 431 - zwei Aufgaben vollständigen und abgeben
-- [ ] ein Programm, welches eingegeben Chancen in Prozent in einen Spruch umwandelt
-- [ ] ein Programm, der ein Satz ausgibt, jede Wort dürft aber einmal in Quellcode benutzt werden: "Wenn hinter Fliegen Fliegen fliegen, fliegen Fliegen Fliegen nach."
+- [*] ein Programm, welches eingegeben Chancen in Prozent in einen Spruch umwandelt
+- [*] ein Programm, der ein Satz ausgibt, jede Wort dürft aber einmal in Quellcode benutzt werden: "Wenn hinter Fliegen Fliegen fliegen, fliegen Fliegen Fliegen nach."
 - [ ] eine Vorlage für Dokumentation in Word erstellen, sodass alles einfach zum einsetzen ist
 
 Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
