@@ -33,3 +33,22 @@ Da wir bald mit neuen Aufgaben anfangen, ist es wichtig das ich diese zwei so ba
 | Programm in VS geöffnet                       | choose  | Wähle den Symbol: X oder O    |     ja   |
 | Programm in VS geöffnet, Symbol schon gewählt | start   | ein ASCII-Tic Tac Toe Tabelle |     ja   |
 
+
+
+Heute habe ich alle meine Ziele erreicht. Ich habe mit  einer Aufgabe aus Modul 319 begonnen, was hat mir am meisten Zeit verbraucht. In zwei Stunden war ich aber fertig, und konnte weiter arbeiten. Da ich mir letztes Mal eine Vorlage gemacht habe, war mir leichter, heute die Dokumentation zu erstellen, doch hat auch ein wenig Zeit gedauert. Mit meinem Projekt geht am einfachsten, und konnte die Testfälle schnell erfüllen. (70)
+
+## Arbeitspakete für 26/09/2023
+
+- [ ] eine überfällige Aufgabe zur Modul 431 lösen
+
+- [ ] in Tic Tac Toe Programm, man schreibt korrekte Koordinate, die Koordinate wird gelesen und geschrieben
+
+- [ ] In Tic Tac Toe Programm, man schreibt Koordinate und das Symbol wird auf diese Stelle in Tic Tac Toe Tabelle reingeschrieben
+
+
+
+| Vorbereitung                                                  | Eingabe | Ausgabe                        | Erfüllt |
+| ------------------------------------------------------------- | ------- | ------------------------------ | ------- |
+| Programm in Vs geöffnet, Symbol eingegeben, Start geschrieben | zb 1a   | "du wählst 1a"                 |         |
+| ... Start geschrieben, koordinate eingegeben                  | zb 1a   | Symbol auf der richtige Stelle |         |
+
