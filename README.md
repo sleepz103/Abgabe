@@ -26,7 +26,7 @@ Da wir bald mit neuen Aufgaben anfangen, ist es wichtig das ich diese zwei so ba
 - [x] eine Optionale Aufgabe zur Modul 319 lösen
 - [x] eine überfällige Dokumentation zur Modul 319 schreiben
 - [x] ein Programm, der nach Symbol fragt und überprüft, ob gültige char eingegeben wurde (try, catch, throw repetition)
-- [ ] in diesen Programm kann man "start" schreiben, und eine Tic Tac Toe Tabelle wird Ausgegeben
+- [x] in diesen Programm kann man "start" schreiben, und eine Tic Tac Toe Tabelle wird Ausgegeben
 
 | Vorbereitung                                  | Eingabe | Ausgabe                       | Erfüllt? |
 | --------------------------------------------- | ------- | ----------------------------- | -------- |
