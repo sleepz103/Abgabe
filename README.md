@@ -23,8 +23,8 @@ Schlussendlich habe ich 3 aus 4 meiner Zielen erreicht. Mit zusätzlichen Übung
 Da wir bald mit neuen Aufgaben anfangen, ist es wichtig das ich diese zwei so bald wie möglich abgebebe und somit mit neuen leicht beschäftigen kann. (108)
 
 ## Arbeitspakete für 19/09/2023
-- [ ] eine Optionale Aufgabe zur Modul 319 lösen
-- [ ] eine überfällige Dokumentation zur Modul 319 schreiben
+- [x] eine Optionale Aufgabe zur Modul 319 lösen
+- [x] eine überfällige Dokumentation zur Modul 319 schreiben
 - [ ] ein Programm, der nach Symbol fragt und überprüft, ob gültige char eingegeben wurde (try, catch, throw repetition)
 - [ ] in diesen Programm kann man "start" schreiben, und eine Tic Tac Toe Tabelle wird Ausgegeben
 
