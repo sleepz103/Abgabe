@@ -30,6 +30,6 @@ Da wir bald mit neuen Aufgaben anfangen, ist es wichtig das ich diese zwei so ba
 
 | Vorbereitung                                  | Eingabe | Ausgabe                       | Erfüllt? |
 | --------------------------------------------- | ------- | ----------------------------- | -------- |
-| Programm in VS geöffnet                       | choose  | Wähle den Symbol: X oder O    |     X    |
-| Programm in VS geöffnet, Symbol schon gewählt | start   | ein ASCII-Tic Tac Toe Tabelle |     X    |
+| Programm in VS geöffnet                       | choose  | Wähle den Symbol: X oder O    |     ja   |
+| Programm in VS geöffnet, Symbol schon gewählt | start   | ein ASCII-Tic Tac Toe Tabelle |     ja   |
 
