@@ -58,3 +58,23 @@ Heute habe ich nur an meinen Spiel gearbeitet. Ich habe Idee mit zahl-buchstabe 
 | 7   | 8   | 9   |
 
 Das fand ich einfacher zu machen als früher und funktioniert besser. Nun wenn man eine Zahl eingibt, wird diese Stelle mit den Symbol übergeschrieben. Was ich heute nicht erreicht habe, ist an den Modul zu arbeiten. Das passierte weil ich nicht genau wusste, was ich machen wollte, und habe auch bemerkt, dass eine Aufgabe zu viel dauern wird.
+
+## Reflexion
+
+Ich habe gemerkt, dass wenn ich mir einplanne, an den Modul 431 zu arbeiten, mache ich es aber nicht. Somit habe auch bemerkt, dass diese Aufgabe sehr Zeitaufwending sind.  
+
+Da ich mir endlich über die Dokumentationen informiert sowie eine Dokumentation Vorlage gestellet habe, konnte ich Anfangen, paar zu erstellen. Somit fühle ich für die Modul 319 Abgabe sicher.
+
+Als unsere Thema Switchcases war, habe ich mühe damit. Deswegen auch habe ich mir Zeit an Lernatelier genommen, dies zu üben. Somit habe ich herausgefunden, dass das ein sehr hilfreiche Funktion ist. Nun dann konnte ich weiter Aufgaben lösen sowie mein Projekt etwa zu verbessern.
+
+##### Mustern:
+
+Wenn ich weiss, an was ich heute genau Arbeiten muss, erfülle ich die Aufgaben.
+
+Immer wenn ich mir vorbereite und informiere, geht die weitere Arbeit leichter.
+
+Wenn ich mir etwas planne und weiss, dass es schwer und dauerhaft ist, mache ich es nicht. (147)
+
+##### VBV:
+
+Wenn ich mir etwas einplannen will, soll ich eben dann den Auftrag anschauen und die Arbeit einplannen, damit ich das nächstes mal weiss, was ich an diesen Tag erreichen muss.
