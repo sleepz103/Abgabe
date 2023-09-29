@@ -50,11 +50,11 @@ Heute habe ich alle meine Ziele erreicht. Ich habe mit  einer Aufgabe aus Modul 
 | Programm in Vs geöffnet, Symbol eingegeben, Start geschrieben | zb 1a   | "du wählst 1a"                 | jain    |
 | ... Start geschrieben, koordinate eingegeben                  | zb 1a   | Symbol auf der richtige Stelle | Ja      |
 
-Heute habe ich nur an meinen Spiel gearbeitet. Ich habe Idee mit zahl-buchstabe  Eingabesystem verändert, sodass es jetzt nur Zahl system ist. Also man gibt jetzt eine Zahl von 1 bis 9.
+Heute habe ich nur an meinen Spiel gearbeitet. Ich habe Idee mit zahl-buchstabe  Eingabesystem verändert, sodass es jetzt nur Zahl system ist. Also man gibt nun Zahlen von 1 bis 9.
 
 | 1   | 2   | 3   |
 |:---:|:---:|:---:|
 | 4   | 5   | 6   |
 | 7   | 8   | 9   |
 
-Das fand ich einfacher zu machen als früher und funktioniert besser. Nun wenn man eine Zahl eingibt, wird diese Stelle mit den Symbol übergeschrieben. Was ich heute nicht erreicht habe ist, an den Modul zu arbeiten. Das passierte weil ich nicht genau wusste, was ich machen wollte, und habe auch bemerkt, eine Aufgabe zu viel dauern wird.
+Das fand ich einfacher zu machen als früher und funktioniert besser. Nun wenn man eine Zahl eingibt, wird diese Stelle mit den Symbol übergeschrieben. Was ich heute nicht erreicht habe, ist an den Modul zu arbeiten. Das passierte weil ich nicht genau wusste, was ich machen wollte, und habe auch bemerkt, dass eine Aufgabe zu viel dauern wird.
